@@ -24,4 +24,9 @@ Check if the features show a slope at all
 #Conclusion: A strong slope is indicative of the features' ability to discriminate the event from non event
 #            making it a good predictor
 
+##### Recommendations ##########
+# Phase 1 - Speak to customers who falls in top 2 predicted ranks(deciles) and also are in High Duration segment
+# Similarly - Phase 2 ( Top 2 , Low Duration)
+# Phase 3 - Bottom 7 and High Duration (randomly select 25% of them only)
+
 reference papers:A_data_driven_approach_to_predict_the_success_of_bank_telemarketing
