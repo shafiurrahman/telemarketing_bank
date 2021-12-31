@@ -18,5 +18,10 @@ Coordinates type of data: latitude and longitude type
 # Since the data does not contain any missing values Imputation Processes are not required
 # In case there are missing values in the data, then we can  remove those columns or features that have more than 25% of rows as missing, this is generally preferred.
 
+Check if the features show a slope at all
+#If they do, then do you see some deciles below the population average and some higher than population average?
+#If that is the case then the slope will be strong
+#Conclusion: A strong slope is indicative of the features' ability to discriminate the event from non event
+#            making it a good predictor
 
 reference papers:A_data_driven_approach_to_predict_the_success_of_bank_telemarketing
